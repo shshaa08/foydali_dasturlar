@@ -1,1 +1,1 @@
-# foydali_dasturlar
+Bu yerda foydali va kerakli dasturlar jamlangan
